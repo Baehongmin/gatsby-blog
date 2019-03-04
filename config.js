@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://kongs-dying-blog.netlify.com',
+  title: 'Blog by Claude Bae',
+  subtitle: '아주 멋지고 이쁘고 좋은 블로그를 만들고 싶지만 그럴 수 없으니까 그냥 합니다.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -30,9 +30,8 @@ module.exports = {
       email: 'hminbae@naver.com',
       telegram: '#',
       twitter: '#',
-      github: 'https://github.com/Baehongmin',
+      github: 'Baehongmin',
       rss: '#',
-      vkontakte: '#'
     }
   }
 };

@@ -1,14 +1,14 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: 블로그의 시작
+date: "2019-03-04T15:50:00.121Z"
 template: "post"
 draft: false
 slug: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+category: "Dairy"
 tags:
-  - "Handwriting"
+  - "Fist Commit"
   - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "블로그 시작할 때의 생각과 앞으로의 방향성의 대해서"
 ---
 
 Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
