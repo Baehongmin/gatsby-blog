@@ -37,6 +37,7 @@
     "disqus"
   ],
   "dependencies": {
+    "@debiki/gatsby-plugin-talkyard": "^0.5.8",
     "bluebird": "^3.5.2",
     "classnames": "^2.2.6",
     "codecov": "^3.1.0",
