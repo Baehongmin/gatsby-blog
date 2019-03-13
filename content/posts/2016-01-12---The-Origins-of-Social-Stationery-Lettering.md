@@ -62,3 +62,15 @@ $$
 $$
 
 Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+
+##사물인터넷 플랫폼 설계 및 개발
+- 최신 IT 기술을 꿰야 한다. (변환점에서의 선택)
+
+새로운 서비스의 시대 2019 TOP 10 기술
+> 지식
+  - 빅데이터
+> 디지털
+  - 엣지 클라우드
+  - 저장, 생성, 조회, 보안 기술의 증가
+> 연결
+  - 스마트 스페이스
