@@ -66,11 +66,28 @@ Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque i
 ##사물인터넷 플랫폼 설계 및 개발
 - 최신 IT 기술을 꿰야 한다. (변환점에서의 선택)
 
-새로운 서비스의 시대 2019 TOP 10 기술
+###새로운 서비스의 시대 2019 TOP 10 기술
 > 지식
   - 빅데이터
 > 디지털
-  - 엣지 클라우드
+  - 엣지 컴퓨팅(데이터 처리를 END단에서 처리)
   - 저장, 생성, 조회, 보안 기술의 증가
 > 연결
   - 스마트 스페이스
+  - 블록체인
+
+###사물 인터넷 필요 핵심 기술
+####1DAY
+> 저전력 네트워킹 기술
+  - 전력 소비량이 Key Performance (Energy Harvesting)
+> 플랫폼 기술
+  - 어떤 기능이나 성능을 제공해주는 기술
+> 클라우드 기술
+  - IaaS, PaaS, SaaS
+> 데이터 분석 기술
+  - 데이터 센싱, 수집, 저장
+  - 저장된 데이터를 분석
+
+####2DAY
+> OSI 7LAYER
+  - 전력소비량의 영향 정도
