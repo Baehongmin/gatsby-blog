@@ -91,4 +91,9 @@ Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque i
 ####2DAY
 - OSI 7LAYER
   - 전력소비량의 영향 정도
-- GPU
+
+- 사물인터넷 시스템 구성
+  - 디바이스 플랫폼
+  - 네트워크
+  - 클라우드 플랫폼
+  - 서비스 어플리케이션 플랫폼
