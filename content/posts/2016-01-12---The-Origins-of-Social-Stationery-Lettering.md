@@ -91,3 +91,4 @@ Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque i
 ####2DAY
 - OSI 7LAYER
   - 전력소비량의 영향 정도
+- GPU
